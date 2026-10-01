@@ -1,0 +1,14 @@
+CodeTrack – Task 2 ReactJS Project
+Student: AJAYAMSAVASAN ARULMURUGAN
+Register Number: RA2411003050055
+Subject: 21CSE354T – Full Stack Web Development
+Problem: Task 2, Problem No. 43 – Coding Practice Tracker
+
+Run the main React source locally:
+1. Install Node.js (LTS recommended).
+2. Open this folder in VS Code.
+3. Run: npm install
+4. Run: npm run dev
+5. Open the Vite URL shown in the terminal.
+
+The offline-preview folder is included only as a lightweight preview/reference; the submitted application source is in src/ and targets React 18 + Vite.
